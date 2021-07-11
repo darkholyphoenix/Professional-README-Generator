@@ -53,6 +53,7 @@
 
   Video on how to run:
   https://drive.google.com/file/d/1pgNBugxAC8tjsX-s8hZ4F7q0kSlXyuCH/view
+  <iframe src="https://drive.google.com/file/d/1pgNBugxAC8tjsX-s8hZ4F7q0kSlXyuCH/preview" width="640" height="480"></iframe>
 
   ## Contributing
   All are welcomed to help generate the code to help streamline this faster. If you wish to do so, simply sent me a email and I will be happy to help you out.;
