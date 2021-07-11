@@ -52,7 +52,7 @@
   ![Screenshot (47)](https://user-images.githubusercontent.com/47751469/125212183-44e56c00-e271-11eb-8124-ec0bf9fad227.png)
 
   Video on how to run:
-  [![Watch the video](https://drive.google.com/file/d/1pgNBugxAC8tjsX-s8hZ4F7q0kSlXyuCH/view)
+  https://drive.google.com/file/d/1pgNBugxAC8tjsX-s8hZ4F7q0kSlXyuCH/view
   
 
   ## Contributing
