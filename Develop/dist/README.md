@@ -1,11 +1,11 @@
 
-  # Proper README ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+  # Professional README ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Title
-  Proper README
+  Professional README
   
   ## Description 
-  test
+  This is an example of a professional README
 
   ## Table of Contents
 
@@ -16,13 +16,13 @@
   
 
   ## Installation 
-  test
+  Follow the steps I am showing you!
   
   ## Usage 
-  test
+  Please do not try and change this code
   
   ## Credits 
-  test
+  No one
 
   ## License
   
@@ -35,13 +35,13 @@
   ## Features
 
   ## Contributing
-  test
+  If you like it and want to help develop it. Let me know.
 
   ## Tests
-  test
+  Node.js test
 
   ## Questions:
-  Here is a link to my GitHub Profile: test, test
-  If you have any questions regarding this code please send me an email at test.
+  Here is a link to my GitHub Profile: darkholyphoenix, test repository
+  If you have any questions regarding this code please send me an email at test@gmail.com.
   
 
