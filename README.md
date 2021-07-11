@@ -52,8 +52,8 @@
   ![Screenshot (47)](https://user-images.githubusercontent.com/47751469/125212183-44e56c00-e271-11eb-8124-ec0bf9fad227.png)
 
   Video on how to run:
-  https://drive.google.com/file/d/1pgNBugxAC8tjsX-s8hZ4F7q0kSlXyuCH/view
-  <iframe src="https://drive.google.com/file/d/1pgNBugxAC8tjsX-s8hZ4F7q0kSlXyuCH/preview" width="640" height="480"></iframe>
+  [![Watch the video](https://drive.google.com/file/d/1pgNBugxAC8tjsX-s8hZ4F7q0kSlXyuCH/view)
+  
 
   ## Contributing
   All are welcomed to help generate the code to help streamline this faster. If you wish to do so, simply sent me a email and I will be happy to help you out.;
